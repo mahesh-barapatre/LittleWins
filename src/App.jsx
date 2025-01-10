@@ -16,8 +16,9 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gradient-to-r from-blue-200 to-purple-300 flex flex-col justify-center items-center p-6">
-      <h1 className="text-4xl font-bold text-gray-800 mb-6">
-        Achievement Card Generator 🎉
+      <h1 className="text-6xl font-bold text-blue-400 mb-6">LittleWins</h1>
+      <h1 className="text-4xl text-gray-800 mb-6">
+        Because Every Step Counts 🎉
       </h1>
 
       {!showCard ? (
